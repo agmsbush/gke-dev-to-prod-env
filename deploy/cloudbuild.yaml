@@ -7,4 +7,4 @@ steps:
     - './resources.yaml'
     - '--label=env-commit-sha=${SHORT_SHA}'
     - '--location=us-west1'
-    - '--cluster=oregon'
+    - '--cluster=gw'
